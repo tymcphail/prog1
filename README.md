@@ -9,8 +9,8 @@ Key GUI Techniques Used
 - Data Binding
   - Outputs results directly to GUI labels or text boxes
 -  Input Validation
-  - Validates user inputs to ensure they are within acceptable ranges before performing calculations
-  - Provides feedback to users through MessageBox.Show when inputs are invalid
+    - Validates user inputs to ensure they are within acceptable ranges before performing calculations
+    - Provides feedback to users through MessageBox.Show when inputs are invalid
 - Dropdown and Radio Button Logic
   - Uses dropdown menus to allow users to select boat types and the number of people
   - Includes radio buttons (YesButton) for optional life jacket selection
