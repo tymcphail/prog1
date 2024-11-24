@@ -3,13 +3,13 @@ Program Focus: A GUI application built using Windows Forms to calculate the tota
 
 Key GUI Techniques Used
 - Windows Forms Framework
- - Utilizes controls like text boxes, dropdown menus, radio buttons, and labels for user input and output
+  - Utilizes controls like text boxes, dropdown menus, radio buttons, and labels for user input and output
 - Event Handling
   - Event-driven interaction triggered by button clicks and selections
 - Data Binding
   - Outputs results directly to GUI labels or text boxes
 -  Input Validation
-- Validates user inputs to ensure they are within acceptable ranges before performing calculations
+  - Validates user inputs to ensure they are within acceptable ranges before performing calculations
   - Provides feedback to users through MessageBox.Show when inputs are invalid
 - Dropdown and Radio Button Logic
   - Uses dropdown menus to allow users to select boat types and the number of people
